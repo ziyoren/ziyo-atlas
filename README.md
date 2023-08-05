@@ -18,6 +18,6 @@ nginx                         1.19.8-alpine           86a0129045b7   2 years ago
 
 # Start Container
 ```sh
-docker run --name myAtlas -p 1234:1234 -p 2345:2345 -d ziyo-atlas:2.2.1 
+docker run --name my-atlas -p 1234:1234 -p 2345:2345 -d ziyo-atlas:2.2.1 
 ```
 
